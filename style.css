@@ -1,0 +1,34 @@
+table{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: chocolate;
+    background-color: beige;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: chocolate;
+    
+}
+.way{
+    color: rgb(135, 144, 222);
+    background-color: burlywood;
+}
+.ww{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.rr{
+    color: darkblue;
+    background-color: aqua;
+}
+figcaption{
+    color: rgb(205, 100, 237);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
